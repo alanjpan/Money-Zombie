@@ -1,7 +1,7 @@
 # Money-Zombie
 experimental research tool for international business, marketing, information networking, and information asymmetry (more commonly known as an infection spread simulation in medicine and public health)
 
-@author: Alan Jerry Pan, CPA, CSc
+@author: Alan Jerry Pan, CPA, CSc student
 @affiliation: Shanghai Jiaotong University
 
 Program used for experimental study of (i) international business, specially "money zombies"*, (ii) marketing, specially branding, (iii) information networking through the use of tender, and (iv) information asymmetry in decision making (business) and risk-taking. Can also be modified to study infectious sickness spreads in medicine.
