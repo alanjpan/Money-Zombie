@@ -2,7 +2,7 @@
 """
 Created on Sun Jul 29 11:49:02 2018
 
-@author: Alan Jerry Pan, CPA, CSc
+@author: Alan Jerry Pan, CPA, CSc student
 @affiliation: Shanghai Jiaotong University
 
 Program used for experimental study of (i) international business, specially "money zombies"*, (ii) marketing, specially branding, (iii) information networking through the use of tender, and (iv) information asymmetry in decision making (business) and risk-taking. Can also be modified to study infectious sickness spreads in medicine.
